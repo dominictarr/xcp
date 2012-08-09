@@ -2,7 +2,13 @@
 
 terse commands for copy pasting in linux.
 
-# Usage
+## Install preqs
+
+```
+sudo apt-get install xclip
+```
+
+## Usage
 
 ### x (cut)
 
