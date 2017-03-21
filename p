@@ -1,4 +1,3 @@
 #!/bin/sh
 
-xclip -o -selection clipboard 
-
+xclip -o -selection clipboard
